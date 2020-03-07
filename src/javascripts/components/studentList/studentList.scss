@@ -1,3 +1,7 @@
 .student-list {
+  margin-top: 4%;
+  list-style: none;
   color: blueviolet;
+  display: flex;
+  flex-flow: row wrap;
 }
